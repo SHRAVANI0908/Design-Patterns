@@ -1,1 +1,1 @@
-Design patters task
+Design patterns task
